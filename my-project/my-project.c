@@ -18,5 +18,4 @@ int main(void) {
 		gpio_toggle(GPIOC, 
 					GPIO13);	
 	}
-
 }
